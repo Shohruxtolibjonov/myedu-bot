@@ -11,7 +11,7 @@ import aiosqlite
 # Configuration
 BOT_TOKEN = "8530628540:AAHPuFjnUbE-qYJEmX_NtkKqzf3KoZbk6kws"
 WEB_APP_URL = "https://your-netlify-app.netlify.app"  # Replace with your Netlify URL
-ADMIN_IDS = [123456789]  # Replace with admin Telegram IDs
+ADMIN_IDS = [1172284285]  # Replace with admin Telegram IDs
 
 # Initialize bot
 bot = Bot(token=BOT_TOKEN)
